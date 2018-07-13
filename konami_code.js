@@ -12,7 +12,7 @@ const codes = [
 ];
 
 let index = 0
-document.addEventListener('keydown', function intit (e);
+document.addEventListener('keydown', function intit (e));
 
 function init(e) {
   // your code here
