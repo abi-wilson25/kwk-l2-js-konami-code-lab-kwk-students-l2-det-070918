@@ -12,7 +12,7 @@ const codes = [
 ];
 
 let index = 0
-function init() {
+function init(e) {
   // your code here
   const keyCode = e.keyCode;
   
