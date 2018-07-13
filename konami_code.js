@@ -12,6 +12,8 @@ const codes = [
 ];
 
 let index = 0
+document.addEventListener('keydown', function(e)
+
 function init(e) {
   // your code here
   const keyCode = e.keyCode;
